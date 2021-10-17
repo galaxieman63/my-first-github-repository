@@ -8,3 +8,5 @@ New line was added locally.
 Another line was added manually in the feature-2 branch.
 
 Yet another local change in feature-2
+
+Changes in feature-2 branch
